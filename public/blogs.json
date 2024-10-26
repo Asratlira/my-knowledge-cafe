@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/nmpdpGh/brown-green-bridge-sunset.jpg",
+    "title": "Exploring the Future of AI",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co.com/zN9wqBx/portrait-beautiful-young-woman-wearing-pink-hat-looking-window.jpg",
+    "posted_date": "2024-09-12",
+    "reading_time": 2,
+    "hashtag": ["#AI", "#FutureTech", "#MachineLearning"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/nmpdpGh/brown-green-bridge-sunset.jpg",
+    "title": "The Power of Habit",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co.com/zN9wqBx/portrait-beautiful-young-woman-wearing-pink-hat-looking-window.jpg",
+    "posted_date": "2024-08-24",
+    "reading_time": 5,
+    "hashtag": ["#Psychology", "#SelfImprovement", "#Habits"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co.com/nmpdpGh/brown-green-bridge-sunset.jpg",
+    "title": "Understanding Quantum Computing",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co.com/zN9wqBx/portrait-beautiful-young-woman-wearing-pink-hat-looking-window.jpg",
+    "posted_date": "2024-10-05",
+    "reading_time": 13,
+    "hashtag": ["#QuantumComputing", "#Technology", "#Future"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/nmpdpGh/brown-green-bridge-sunset.jpg",
+    "title": "A Guide to Healthy Eating",
+    "author": "Mark Thompson",
+    "author_img": "https://i.ibb.co.com/zN9wqBx/portrait-beautiful-young-woman-wearing-pink-hat-looking-window.jpg",
+    "posted_date": "2024-07-15",
+    "reading_time": 7,
+    "hashtag": ["#Health", "#Nutrition", "#Wellness"]
+  }
+]
